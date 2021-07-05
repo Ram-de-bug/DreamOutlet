@@ -30,7 +30,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:backgroundTint="#00FFFFFF"
-                android:drawableTop="@drawable/ic_action_name_sports"
+                android:drawableTop="@drawable/ic_action_name_sport"
                 android:text="Sport"
                 android:textColor="#000000"
                 android:textSize="12sp" />
@@ -108,28 +108,30 @@
                 android:orientation="horizontal">
 
                 <ImageView
-                    android:id="@+id/imageView5"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:id="@+id/img1"
+                    android:layout_width="438dp"
+                    android:layout_height="match_parent"
                     android:layout_weight="1"
-                    app:srcCompat="@drawable/ele"
-                    android:contentDescription="All types of elctrical appliences" />
+                    android:contentDescription="All types of elctrical appliences"
+                    app:srcCompat="@drawable/add_ele" />
 
                 <ImageView
-                    android:id="@+id/imageView7"
-                    android:layout_width="506dp"
+                    android:id="@+id/img2"
+                    android:layout_width="416dp"
                     android:layout_height="224dp"
                     android:layout_weight="1"
-                    app:srcCompat="@drawable/free"
-                    android:contentDescription="Free shipping" />
+                    android:contentDescription="Free shipping"
+                    app:srcCompat="@drawable/add_best" />
 
                 <ImageView
-                    android:id="@+id/imageView4"
-                    android:layout_width="527dp"
-                    android:layout_height="228dp"
+                    android:id="@+id/img3"
+                    android:layout_width="416dp"
+                    android:layout_height="224dp"
                     android:layout_weight="1"
-                    app:srcCompat="@drawable/best"
-                    android:contentDescription="Best quality" />
+                    android:contentDescription="Free shipping"
+                    app:srcCompat="@drawable/add_free" />
+
+
             </LinearLayout>
         </HorizontalScrollView>
 
