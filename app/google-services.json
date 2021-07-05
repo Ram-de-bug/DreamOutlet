@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "178904112678",
+    "project_id": "dream-outlet",
+    "storage_bucket": "dream-outlet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178904112678:android:63e1b990683800536550e7",
+        "android_client_info": {
+          "package_name": "com.example.dreamoutlet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178904112678-k6lunu6i602vr7q58nm9ghoo45353v1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dreamoutlet",
+            "certificate_hash": "8dcb90525589a3369f6fd66f21e5f884757a2efb"
+          }
+        },
+        {
+          "client_id": "178904112678-iluj9bsh3udbq9vbedg66negm9g5ll3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbF5fPtCP96pjZHU0eWHhpuTgmIdEMU2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178904112678-iluj9bsh3udbq9vbedg66negm9g5ll3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
