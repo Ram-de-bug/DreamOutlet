@@ -67,6 +67,7 @@
                 android:layout_weight="1"
                 android:backgroundTint="#00FFFFFF"
                 android:drawableTop="@drawable/ic_action_name_food"
+                android:onClick="onClick"
                 android:text="Food"
                 android:textColor="#000000"
                 android:textSize="12sp" />
